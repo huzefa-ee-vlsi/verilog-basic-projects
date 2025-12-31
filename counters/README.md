@@ -11,3 +11,7 @@ This folder contains an up-down counter implemented in Verilog HDL.
 - Icarus Verilog
 - GTKWave
 - Yosys 
+
+## Simulation
+
+GTKWave waveform screenshot and VCD files are available in the 'waveforms/' folder.
