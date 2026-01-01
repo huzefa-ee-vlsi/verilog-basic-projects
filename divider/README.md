@@ -73,8 +73,8 @@ This design demonstrates how odd clock dividers are implemented in real hardware
 This module allows clock division by **any value of N** without rewriting the RTL.
 
 Example:
-```verilog
-clk_div_modN #(.N(7)) u_div7 (...);
+```verilog : clk_div_modN #(.N(7)) u_div7 (...);
+
 
 
 
